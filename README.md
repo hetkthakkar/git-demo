@@ -1,4 +1,4 @@
 # git-demo
 This is demo repo.
 <br>
-Author - Het
+Author - Het Thakkar
